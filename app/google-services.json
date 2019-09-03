@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1076006093092",
+    "firebase_url": "https://bitinsidernew.firebaseio.com",
+    "project_id": "bitinsidernew",
+    "storage_bucket": "bitinsidernew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076006093092:android:163f0b930858bc21",
+        "android_client_info": {
+          "package_name": "com.example.dell.bitinsider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1076006093092-2vqerohvk55jfsloi2s8ri27uua9vq64.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dell.bitinsider",
+            "certificate_hash": "3df165c0a5e2fd827cf1da3828452b0ddd5b2635"
+          }
+        },
+        {
+          "client_id": "1076006093092-cuuc7p4e35u2n0o6rb3m732imbd6bm99.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsoJhq6CA4L65krTcRqI_Z1Fw0m10nqjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1076006093092-cuuc7p4e35u2n0o6rb3m732imbd6bm99.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
